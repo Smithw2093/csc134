@@ -14,6 +14,5 @@ int main () {
 
 cout << "The movie " << movie_name << "came out in " << movie_year << ", and had a worldwide gross of around " << box_office << " billion 
 dollars." <<endl;
-cout << "There's no throne, there is no version of this where you come out on top. Maybe your army comes and maybe it's too much 
-for us but it's all on you. Because if we can't protect the Earth, you can be damned well sure we'll avenge it!" << endl;
+cout << "There's no throne, there is no version of this where you come out on top. Maybe your army comes and maybe it's too much for us but it's all on you. Because if we can't protect the Earth, you can be damned well sure we'll avenge it!" << endl;
 
